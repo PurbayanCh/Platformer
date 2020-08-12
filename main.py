@@ -1,8 +1,3 @@
-# JUMPY! (platform game)
-# Art from Kenney.nl
-# Happy Tune by syncopika
-# YIPPEE by snabisch
-
 import pygame as pg
 import random
 from settings import *
